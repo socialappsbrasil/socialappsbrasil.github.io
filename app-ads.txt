@@ -1,2 +1,3 @@
 otzads.net, 1q2eqinmdut7mdb-l0858xcgper7-k3otueh, DIRECT 
 google.com, pub-9063486391387983, RESELLER, f08c47fec0942fa0
+google.com, pub-7851861059333088, DIRECT, f08c47fec0942fa0
